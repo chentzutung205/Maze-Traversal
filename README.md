@@ -1,5 +1,7 @@
 # Maze Traversal
 
+Navigating complex environments is a fundamental challenge in the realm of robotics and AI. This program mimics how robots can autonomously explore and learn from their surroundings. By visualizing each decision point, it demonstrates the principles of exploration, backtracking, and pathfinding that are crucial in developing intelligent systems capable of solving real-world navigation problems.
+
 ## Overview
 This program implements a maze traversal algorithm using __depth-first search (DFS)__ with a stack. It attempts to find a path from the entrance to the exit of a predefined maze by exploring each direction and backtracking if a dead end is encountered.
 
